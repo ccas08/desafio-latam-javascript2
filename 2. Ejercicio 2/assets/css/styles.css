@@ -40,8 +40,8 @@ button:hover {
     padding: 10px;
     background-color: #ddd;
     border-radius: 5px;
-    max-width: 300px; /* Ajusta esto según tus necesidades */
+    max-width: 300px; 
     margin-left: auto;
     margin-right: auto;
-    text-align: center; /* Asegura que el texto dentro del div esté centrado */
+    text-align: center; 
 }
